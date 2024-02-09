@@ -2,9 +2,9 @@
 	"name": "LibreChat",
 	"icons": [
 	  {
-		"src": "assets/apple-touch-icon-180x180.png",
-		"type": "image/png",
-		"sizes": "180x180"
+		"src": "assets/LibreChat.svg",
+		"type": "image/svg+xml",
+		"sizes": "any"
 	  }
 	],
 	"start_url": "../",
